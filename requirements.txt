@@ -4,3 +4,4 @@ statsmodels
 matplotlib
 opencv-python
 python-dotenv
+pydantic

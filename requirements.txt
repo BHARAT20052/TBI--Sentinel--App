@@ -1,0 +1,6 @@
+streamlit
+pandas
+statsmodels
+matplotlib
+opencv-python
+python-dotenv

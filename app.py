@@ -34,7 +34,7 @@ st.markdown("---")
 with st.sidebar:
     st.image("https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/1200px-Flag_of_India.svg.png", width=150)
     st.success("**10-Second AI Diagnosis • 48-Hour Forecast**")
-    st.markdown("**Developed by:** BHARAT Chandra")
+    st.markdown("**Developed by:** BHARAT CHANDRA")
 
 # ====================== UPLOADERS ======================
 col1, col2 = st.columns(2)

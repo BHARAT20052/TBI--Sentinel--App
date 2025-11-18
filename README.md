@@ -7,7 +7,7 @@ Real-time AI tool for Indian Army field medics:
 - **JSON Report:** Structured output for triage
 
 ## Demo
-[Live App](https://tbi-sentinel-app.streamlit.app)
+[Live App](https://tbi--sentinel--app-htshotdxphimivds4kabwv.streamlit.app/)
 
 ## Tech Stack
 - Streamlit (Web UI)
